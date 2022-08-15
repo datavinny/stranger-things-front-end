@@ -1,9 +1,12 @@
 # Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de frontend.
+## :memo: Contexto
+Este projeto foi feito enquanto estudava na @betrybe. 
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+Nele tive que juntar o front com o back utilizando Heroku.
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
+Nota: tanto o front quanto o back ja vieram prontos.
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-019-stranger-things) em que os requisitos do projeto são destrinchados.
+## Creditos
+- Eu (@datavinny)
+- Trybe (@betrybe)
